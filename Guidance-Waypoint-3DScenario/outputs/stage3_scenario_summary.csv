@@ -1,0 +1,2 @@
+SimStopTime_s,WaypointsDone,TimeAllWaypointsDone_s,FinalPositionError_m,MaxCrossTrack_after5s_m,LidarPointsPerFrame,LidarFrames,MinClearance_m,UAVRadius_m,Collision,CollisionStart_s,CollisionEnd_s
+60,1,34.9241656693538,4.67329887684436e-11,1.50106376553278,3600,601,-1.99590600965487,0.6,1,13.7580132983628,15.924165669373

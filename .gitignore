@@ -1,3 +1,6 @@
 Guidance-Waypoint-3DScenario/outputs/slprj/*
 ~$V_Agentic_AI_Workflow_Writeup.docx
 *.mp4
+Flight-Log-Analysis/outputs/render_log.txt
+Flight-Log-Analysis/outputs/obsolete/*
+Guidance-Waypoint-3DScenario/outputs/obsolete/*
